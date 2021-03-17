@@ -10,3 +10,6 @@ body{
 input.input-template{
 	display: none;
 }
+.confermaModifica{
+	display: none;
+}
