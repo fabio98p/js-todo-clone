@@ -1,0 +1,12 @@
+body{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	background-color: rgb(182, 128, 128);
+}
+.template{
+	display: none;
+}
+input.input-template{
+	display: none;
+}
